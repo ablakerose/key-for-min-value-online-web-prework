@@ -10,4 +10,3 @@ def key_for_min_value(name_hash)
   return answer[0]
  end
 end
-end
