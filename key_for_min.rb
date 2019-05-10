@@ -6,7 +6,6 @@ def key_for_min_value(name_hash)
     return nil
   else
   answer = []
-  answer = name_hash.min_by {|k,v| v }
-  return answer[0]
+]]
  end
 end
